@@ -4,3 +4,4 @@
 
 * uso do comando restore
 * uso do comando push e pull
+* uso do comando git fetch
